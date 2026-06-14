@@ -1,1 +1,1 @@
-B79 Fishing V5 HTML demo. Chạy bằng index.html. Dùng xu ảo trong game, chưa có nạp/rút hoặc đổi thưởng tiền thật.
+B79 Fishing V6 WebGL/PixiJS demo. Chạy index.html, cần internet để tải PixiJS CDN. Dùng xu ảo trong game.
